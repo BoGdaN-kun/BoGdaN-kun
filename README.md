@@ -15,11 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-<img align = "center" src = "https://github.com/BoGdaN-kun/BoGdaN-kun/blob/main/images/gojo-gif-9.gif" width="70%" height="auto" >
-<br>
-## 🔥 Github Stats
-</br>
+<div>
+<img align = "center" src = "https://github.com/BoGdaN-kun/BoGdaN-kun/blob/main/images/gojo-gif-9.gif" width="100%" height="auto" ></img>
+</div>
+<div>
+##🔥 Github Stats
+</div>
 <img align="right" width="38%" src="https://i.imgur.com/VxANS89.jpg"/>
 
   <a href="https://github.com/BoGdaN-kun"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=BoGdaN-kun&theme=radical&title_color=ff3068"></a>
