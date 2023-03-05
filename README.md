@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-
+<img src = "https://github.com/BoGdaN-kun/BoGdaN-kun/blob/main/images/gojo-gif-9.gif" width="90%" height="auto">
 ## 🔥 Github Stats
 
